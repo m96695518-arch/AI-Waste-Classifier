@@ -1,4 +1,4 @@
-import streamlit as st
-import tf_keras
-import numpy as np
-from PIL import Image
+streamlit
+tensorflow
+numpy
+pillow
